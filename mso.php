@@ -5,14 +5,14 @@
 ?>
 
         <div class="main-container">
-            <section class="page-title page-title-4 image-bg overlay">
+            <section class="page-title page-title-3 image-bg overlay">
                 <div class="background-image-holder">
                     <img alt="Background Image" class="background-image" src="img/home-2-1.jpg" />
                 </div>
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-12">                                    
-                            <h3 class="uppercase mb0">Technology</h3>
+                            <h4 class="uppercase mb0">Products &amp; Services</h4>
                         </div>
                     </div>
                     <!--end of row-->
@@ -20,7 +20,7 @@
                 <!--end of container-->
             </section>
             <section>
-                <div class="container">
+                <!-- <div class="container">
                         
                         <div class="col-sm-12 col-md-8 col-md-offset-2 mb80">
                             <h4 class="">
@@ -32,78 +32,309 @@
                             </p>
                         </div>
 
-                </div>
-                <div class="row mb80">
-                <hr>
-                </div>
+                </div> -->
                 <div class="container">
-                        
-                        <div class="col-sm-12 col-md-8 col-md-offset-2 mb32">
-                            <span class="pull-right"><a href="#">Dowload the white paper</a></span>
-                            <h4 class="">
-                                White Paper                            
-                            </h4>
+                <div class="row">
+                    <div class="row">
+                        <div class="col-md-12 col-sm-12">
+                            <h5 class="uppercase mb0"><strong>MSO Offerings</strong></h5>
+                            <div class="tabbed-content text-tabs text-center">
+                                <ul class="tabs mb32">
+                                    <li class="active">
+                                        <div class="tab-title">
+                                            <span>Subscription OTT</span>
+                                        </div>
+                                        <div class="tab-content">
+                                            <div class="row">
+                                                <div class="col-sm-4">
+                                                        <div class="feature feature-2">
+                                                            <div class="text-left">
+                                                                <h4 class="">Subscription OTT</h4>
+                                                                
+                                                                <p>Ripple provides a state-of-the art video distribution system that reaches large concurrent audiences on tablets, phones, OTT boxes  and connected TVs  rivaling the quality and reliability of  your managed network.</p>
+                                                            </div>
+                                                        </div> 
+                                                    </div>   
+                                                <div class="col-sm-8">
+                                                    <div class="feature feature-2 ">
+                                                        <div class="text-left">
+                                                            <table class="table table-condensed table-bordered">
+                                                                <thead>
+                                                                    <tr>
+                                                                        <th>Benefit</th>
+                                                                        <th>Description</th>
+                                                                    </tr>
+                                                                </thead>
+                                                                <tbody>
+                                                                    <tr>
+                                                                        <td>
+                                                                        Network control center integration
+                                                                        </td>
+                                                                        <td>
+                                                                        Full readout of data over the open internet 
+                                                                        just like your managed network.
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>
+                                                                        Playout monitor analytics
+                                                                        </td>
+                                                                        <td>
+                                                                        Complete analytics on a per user basis including 
+                                                                        advertising and usage behavior.
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>
+                                                                        Ultra low latency
+                                                                        </td>
+                                                                        <td>
+                                                                        Preserves high quality and timing for news and sports events.
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>
+                                                                        Accommodates real time targeted ad insertion 
+                                                                        </td>
+                                                                        <td>
+                                                                        Works with state-of-the-art and emerging targeted ad systems
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>
+                                                                        Incorporates Geo-blocking  
+                                                                        </td>
+                                                                        <td>
+                                                                        Preserves contractual integrity
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>
+                                                                        Fully encrypted stream end-to-end  
+                                                                        </td>
+                                                                        <td>
+                                                                        Heightened security
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>
+                                                                        Works with DRM  
+                                                                        </td>
+                                                                        <td>
+                                                                        Seamless integration with current workflow and CDN
+                                                                        </td>
+                                                                    </tr>
+                                                                    <tr>
+                                                                        <td>
+                                                                        Reach unlimited concurrent viewers   
+                                                                        </td>
+                                                                        <td>
+                                                                        Highest consumer quality and experience especially during high traffic periods or through poor unmanaged networks
+                                                                        </td>
+                                                                    </tr>
+                                                                </tbody>
+                                                            </table>
+                                                        </div>
+                                                    <!--end of feature-->
+                                                </div>
+                                            </div>
+                                        </div>
+                                    </li>
+                                    <li>
+                                        <div class="tab-title">
+                                            <span>Ad Support OTT</span>
+                                        </div>
+                                        <div class="tab-content">
+                                            <div class="row">
+                                                <div class="col-sm-3">
+                                                    <div class="feature feature-2 bordered">
+                                                        <div class="text-center">
+                                                            <i class="ti-panel icon-sm"></i>
+                                                            <h5 class="uppercase">Linear Ad Support</h5>
+                                                        </div>
+                                                        <p>
+                                                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+                                                        </p>                                  
 
-                            <hr>
-
-                            <p>
-                                Ripple Networks is a digital content delivery system, including virtual broadcasting, that optimizes the routing of digital content along a managed overlay network that  is dynamically reconfigured based upon forecasts of frequently changing congestion levels on the Internet to provide users with a consistent Quality of Experience by: 
-                            </p>
-                                    <ol>
-                                    <li>
-                                        maintaining a map of shared links interconnecting components of the underlying network (e.g., ASNs and the peering points interconnecting them);
+                                                    </div>
+                                                    <!--end of feature-->
+                                                </div>
+                                                <div class="col-sm-3">
+                                                    <div class="feature feature-2 bordered">
+                                                        <div class="text-center">
+                                                            <i class="ti-pulse icon-sm"></i>
+                                                            <h5 class="uppercase">Linear Pay</h5>
+                                                        </div>
+                                                        <p>
+                                                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+                                                        </p>
+                                                    </div>
+                                                    <!--end of feature-->
+                                                </div>
+                                                <div class="col-sm-3">
+                                                    <div class="feature feature-2 bordered">
+                                                        <div class="text-center">
+                                                            <i class="ti-package icon-sm"></i>
+                                                            <h5 class="uppercase">VOD</h5>
+                                                        </div>
+                                                        <p>
+                                                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+                                                        </p>
+                                                    </div>
+                                                    <!--end of feature-->
+                                                </div>
+                                                <div class="col-sm-3">
+                                                    <div class="feature feature-2 bordered">
+                                                        <div class="text-center">
+                                                            <i class="ti-package icon-sm"></i>
+                                                            <h5 class="uppercase">Live Events</h5>
+                                                        </div>
+                                                        <p>
+                                                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+                                                        </p>
+                                                    </div>
+                                                    <!--end of feature-->
+                                                </div>
+                                            </div>
+                                        </div>
                                     </li>
                                     <li>
-                                        generating metrics by monitoring network traffic among the nodes that cross those shared links (i.e., ASN peering points); 
+                                        <div class="tab-title">
+                                            <span>PPV</span>
+                                        </div>
+                                        <div class="tab-content">
+                                            <div class="row">
+                                                <div class="col-sm-3">
+                                                    <div class="feature feature-2 bordered">
+                                                        <div class="text-center">
+                                                            <i class="ti-panel icon-sm"></i>
+                                                            <h5 class="uppercase">Social video</h5>
+                                                        </div>
+                                                        <p>
+                                                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+                                                        </p>
+                                                    </div>
+                                                    <!--end of feature-->
+                                                </div>
+                                                <div class="col-sm-3">
+                                                    <div class="feature feature-2 bordered">
+                                                        <div class="text-center">
+                                                            <i class="ti-pulse icon-sm"></i>
+                                                            <h5 class="uppercase">VOD Platforms</h5>
+                                                        </div>
+                                                        <p>
+                                                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+                                                        </p>
+                                                    </div>
+                                                    <!--end of feature-->
+                                                </div>
+                                                <div class="col-sm-3">
+                                                    <div class="feature feature-2 bordered">
+                                                        <div class="text-center">
+                                                            <i class="ti-package icon-sm"></i>
+                                                            <h5 class="uppercase">VR</h5>
+                                                        </div>
+                                                        <p>
+                                                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+                                                        </p>
+                                                    </div>
+                                                    <!--end of feature-->
+                                                </div>
+                                                <div class="col-sm-3">
+                                                    <div class="feature feature-2 bordered">
+                                                        <div class="text-center">
+                                                            <i class="ti-package icon-sm"></i>
+                                                            <h5 class="uppercase">Events</h5>
+                                                        </div>
+                                                        <p>
+                                                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+                                                        </p>
+                                                    </div>
+                                                    <!--end of feature-->
+                                                </div>
+                                            </div>
+                                        </div>
                                     </li>
                                     <li>
-                                         analyzing the metrics and the map over time to forecast congestion levels reflecting the changing capacity of the shared links (utilizing a deep learning engine);
+                                        <div class="tab-title">
+                                            <span>VOD</span>
+                                        </div>
+                                        <div class="tab-content">
+                                            <div class="row">
+                                                <div class="col-sm-3">
+                                                    <div class="feature feature-2 bordered">
+                                                        <div class="text-center">
+                                                            <i class="ti-panel icon-sm"></i>
+                                                            <h5 class="uppercase">Social video</h5>
+                                                        </div>
+                                                        <p>
+                                                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+                                                        </p>
+                                                    </div>
+                                                    <!--end of feature-->
+                                                </div>
+                                                <div class="col-sm-3">
+                                                    <div class="feature feature-2 bordered">
+                                                        <div class="text-center">
+                                                            <i class="ti-pulse icon-sm"></i>
+                                                            <h5 class="uppercase">VOD Platforms</h5>
+                                                        </div>
+                                                        <p>
+                                                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+                                                        </p>
+                                                    </div>
+                                                    <!--end of feature-->
+                                                </div>
+                                                <div class="col-sm-3">
+                                                    <div class="feature feature-2 bordered">
+                                                        <div class="text-center">
+                                                            <i class="ti-package icon-sm"></i>
+                                                            <h5 class="uppercase">VR</h5>
+                                                        </div>
+                                                        <p>
+                                                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+                                                        </p>
+                                                    </div>
+                                                    <!--end of feature-->
+                                                </div>
+                                                <div class="col-sm-3">
+                                                    <div class="feature feature-2 bordered">
+                                                        <div class="text-center">
+                                                            <i class="ti-package icon-sm"></i>
+                                                            <h5 class="uppercase">Events</h5>
+                                                        </div>
+                                                        <p>
+                                                            Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
+                                                        </p>
+                                                    </div>
+                                                    <!--end of feature-->
+                                                </div>
+                                            </div>
+                                        </div>
                                     </li>
-                                    <li>
-                                        dynamically reconfiguring the topology of the overlay networks, based on the forecasted congestion levels, to generate optimal routes for the digital content among the client nodes along the overlay networks (utilizing proprietary non-linear optimization techniques); and
-                                    </li>
-                                    <li>
-                                        minimizing bandwidth utilization with a controlled overlay network utilizing WebRTC.
-                                    </li>
-                                    </ol>
-                            <p>
-                               Ripple handles unscheduled as well as scheduled events, streams live as well as pre-recorded events, and streams those events in real time with minimal delay in a highly scalable fashion that maintains a consistent Quality of Experience among large numbers of concurrent viewers.
-                            </p>
-                            <p>
-                                In the context of routing packets on the Internet, distance (or geographic proximity) is not directly relevant because packets in an uncongested network travel near the speed of light.  Speed, however, is affected by:
-                            </p>
-                                <ol>
-                                    <li>
-                                        the number of stops or roadblocks encountered along a route, or in this context the number of “hops” encountered at intermediate routers between two nodes.  Thus, two nodes can be said to be “nearby” each other (in “network proximity”) if they are only a relatively few hops apart, regardless of their geographic proximity and
-                                    </li>
-                                    <li>
-                                        congestion at intermediate nodes along the path between two nodes.
-                                    </li>
-                                </ol>
-                                <p>
-                                    Both these issues can be addressed by dynamically rerouting traffic – i.e., dynamically reconfiguring Ripple’s managed overlay network determining the optimal path between two nodes all the while receiving  state of the art analytics.
-                                </p>
-                                <p>
-                                    Ripple Networks provides consistent, scalable, and high Quality of Experience with its proprietary, managed overlay network to the Internet enabling you to maximize the return on your content by:
-                                </p>
-                                <ul class="bullets">
-                                    <li>
-                                        reaching the global market, through  multiple devices,
-                                    </li>
-                                    <li>
-                                        being able to quantify the viewing patterns and demographics of your viewing audience,
-
-                                    </li>
-                                </ul> 
-                                <h4>
-                                    Ripple Networks did not invent the Internet; we just make it better. © 
-                                </h4>
-
+                                </ul>
+                            </div>
+                         <!-- End Tabbed Content -->
                         </div>
-
+                    </div>
+                    
                 </div>
-                <!--end of container-->
+                
+            </section><a id="cta-with-one-liner" class="in-page-link"></a>
+            
+            <section class="bg-primary">
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12 text-center">
+                            <h4 class="mb0 inline-block p32 p0-xs">Join us at the forefront of internet video delivery.</h4>
+                            <a class="btn btn-white mb8 mt-xs-24" href="#">Use Ripple Networks</a>
+                        </div>
+                    </div>
+                    
+                </div>
+                
             </section>
+
     <?php include ($path. "/includes/footer.html"); ?>
 
  

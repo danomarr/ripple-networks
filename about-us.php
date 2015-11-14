@@ -12,7 +12,7 @@
                 <div class="container">
                     <div class="row">
                         <div class="col-sm-12">
-                            <h3 class="uppercase mb0">About Us</h3>
+                            <h4 class="uppercase mb0">About Us</h4>
                         </div>
                     </div>
                     <!--end of row-->
