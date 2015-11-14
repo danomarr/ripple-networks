@@ -1,7 +1,5 @@
 <?php 
-   $base_url = $_SERVER['DOCUMENT_ROOT'];
-   $path .= "/common/header.php";
-   include_once($base_url. $path);
+   include ('header.php')
 ?>
         <div class="main-container">
             <section class="page-title page-title-4 image-bg overlay">

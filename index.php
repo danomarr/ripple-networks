@@ -1,6 +1,6 @@
 <?php 
    $path = $_SERVER['DOCUMENT_ROOT'];
-   $path .= "/common/header.php";
+   $path .= "/header.php";
    include ($path);
 ?>
 	

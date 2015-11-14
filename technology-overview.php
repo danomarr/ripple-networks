@@ -1,6 +1,8 @@
-
-<?php include 'http://localhost:8888/ripple-networks/header.php'; ?>
-
+<?php 
+   $path = $_SERVER['DOCUMENT_ROOT'];
+   $path .= "/header.php";
+   include ($path);
+?>
         <div class="main-container">
             <section class="page-title page-title-4 image-bg overlay">
                 <div class="background-image-holder">
