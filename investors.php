@@ -10,7 +10,7 @@
 /* but please leave this header intact, thanks                          */
 /************************************************************************/
 ##########################################################################
-$password = "admin";  // Modify Password to suit for access, Max 10 Char.
+$password = "Splash123";  // Modify Password to suit for access, Max 10 Char.
 ##########################################################################
 ?>
 
