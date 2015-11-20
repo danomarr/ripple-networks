@@ -1,14 +1,16 @@
-<<<<<<< HEAD
----
-layout: default
----
-        <div class="main-container nav-is-overlay ">
-
+<?php 
+   $path = $_SERVER['DOCUMENT_ROOT'];
+   include ($path. "/includes/header.html");
+   include ($path. "/includes/navigation.html");
+?>
+	
+		<div class="main-container">
+					
 			<section class="fullscreen cover image-slider slider-all-controls controls-inside image-bg overlay">
 		        <ul class="slides">
                 	<li class="overlay image-bg bg-light">
-                <div class="background-image-holder" style="background: url({{ "/img/home-2-6.jpg" | prepend: site.baseurl }});">
-                    <img alt="Background Image" class="background-image" src="{{ "/img/home-2-6.jpg" | prepend: site.baseurl }}" />
+						<div class="background-image-holder">
+				            <img alt="image" class="background-image" src="img/home-2-6.jpg">
 				        </div>
 				        <div class="container v-align-transform">
 				            <div class="row">
@@ -28,8 +30,8 @@ layout: default
 				        </div>
 				    </li>
                 	<li class="overlay image-bg bg-light">
-                <div class="background-image-holder" style="background: url({{ "/img/home-2-7.jpg" | prepend: site.baseurl }});">
-                    <img alt="Background Image" class="background-image" src="{{ "/img/home-2-7.jpg" | prepend: site.baseurl }}" />
+						<div class="background-image-holder">
+				            <img alt="image" class="background-image" src="img/home-2-7.jpg">
 				        </div>
 				        <div class="container v-align-transform">
 				            <div class="row">
@@ -49,8 +51,8 @@ layout: default
 				        </div>
 				    </li>
                 	<li class="overlay image-bg bg-light">
-                <div class="background-image-holder" style="background: url({{ "/img/home-2-7.jpg" | prepend: site.baseurl }});">
-                    <img alt="Background Image" class="background-image" src="{{ "/img/home-2-8.jpg" | prepend: site.baseurl }}" />
+						<div class="background-image-holder">
+				            <img alt="image" class="background-image" src="img/home-2-8.jpg">
 				        </div>
 				        <div class="container v-align-transform">
 				            <div class="row">
@@ -60,7 +62,7 @@ layout: default
                                         We are on the move, making waves and shaking the 
                                         <br />foundation of an entire industry.
                                     </p>
-                                    <a class="btn btn-lg" href="{{ "/" | prepend: site.baseurl }}">About Us</a>
+                                    <a class="btn btn-lg" href="#">About Us</a>
                                 </div>
                             </div>
 				            
@@ -72,7 +74,7 @@ layout: default
 		    	<div class="row">
 	                <div class="col-sm-12 text-center">
 	                    <p class="lead mb0 inline-block p32 p0-xs">Use the video transport of the future to improve your ROI.</p>
-	                    <a class="btn mb0 mt-xs-24" href="{{ "/" | prepend: site.baseurl }}">DEPLOY RIPPLE</a>
+	                    <a class="btn mb0 mt-xs-24" href="#">DEPLOY RIPPLE</a>
 	                </div>
 	            </div>
 		    </section>
@@ -98,9 +100,10 @@ layout: default
 		                    <hr>
 		                    <p class="lead">When Viewers churn away before the video starts -- ROI is impacted.  Ripple solves slow startup times by pushing files so that the video player does not need to request them. Viewers see buffering from internet network congestions, Ripple monitors Internet peering points, predicts congestions, and proactively re-routes the video packages to reach their destination in time. <br><br>Latency is solved by using WebRTC (Web Real Time Communications) to transmit the data. During peak times many viewers start viewing in short time frames that put loads on servers and outgoing routers congesting them. Ripple utilizes the browser to browser sharing built into WebRTC to spread the load efficiency driving down peaks, significantly reducing costs, and reaching more of the audience.<br></p>		                    
 
+
 		                </div>
 		                <div class="col-md-6 col-md-offset-1 col-sm-6 col-sm-offset-1 text-center">
-		                    <img class="cast-shadow" alt="Screenshot" src="{{ "/img/home-2-4.jpg" | prepend: site.baseurl }}" >
+		                    <img class="cast-shadow" alt="Screenshot" src="img/home-2-4.jpg">
 		                </div>
 		            </div> 
 		            
@@ -133,13 +136,14 @@ layout: default
 		            <div class="row">
 		                <div class="col-sm-12 text-center">
 		                    <h3 class="mb0 inline-block p32 p0-xs">Join us at the forefront of internet video delivery.</h3>
-		                    <a class="btn btn-lg btn-white mb8 mt-xs-24" href="{{ "/" | prepend: site.baseurl }}">DEPLOY RIPPLE</a>
+		                    <a class="btn btn-lg btn-white mb8 mt-xs-24" href="#">DEPLOY RIPPLE</a>
 		                </div>
 		            </div>
 		            
 		        </div>
 		        
 		    </section>
-=======
-Hello World
->>>>>>> FETCH_HEAD
+
+<?php include ($path. "/includes/footer.html"); ?>
+ 
+				
