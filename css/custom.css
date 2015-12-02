@@ -53,3 +53,8 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, pre, table, blockquote, input, button, select
 .bg-primary {
     background: #306aab !important;
 }
+
+
+/* =========== Typography  =========== */
+
+.centered-and-cropped { object-fit: cover }
