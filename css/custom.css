@@ -55,6 +55,25 @@ h1, h2, h3, h4, h5, h6, p, ul, ol, pre, table, blockquote, input, button, select
 }
 
 
-/* =========== Typography  =========== */
+/* =========== Images  =========== */
 
 .centered-and-cropped { object-fit: cover }
+
+
+/* =========== Mobile  =========== */
+
+@media all and (max-width: 767px) {
+
+	.menu li {
+	padding-top: 10px;
+	padding-bottom: 10px
+}
+
+  .text-tabs .tabs li {
+	width: 100%;
+	}
+}
+
+
+
+
