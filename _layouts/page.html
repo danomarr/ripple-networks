@@ -1,0 +1,30 @@
+---
+layout: default
+---
+<article class="main-container nav-is-overlay ">
+            <section class="page-title page-title-4 image-bg overlay">
+                <div class="background-image-holder" style="background: url({{ "/img/home-2-1.jpg" | prepend: site.baseurl }});">
+                    <img alt="Background Image" class="background-image" src="{{ "/img/home-2-1.jpg" | prepend: site.baseurl }}" />
+                </div>
+                <div class="container">
+                    <div class="row">
+                        <div class="col-sm-12">
+                            <h4 class="uppercase mb0">
+                                {{ page.title }}
+                              </h4>
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+  <section class="post-content">
+  	<div class="container">
+    	<div class="row mb64">
+    		<div class="col-sm-12 col-md-8 col-md-offset-2">
+    		{{ content }}
+    		</div>
+    	</div>
+   	</div>
+  </section>
+
+</article>
